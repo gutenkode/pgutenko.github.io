@@ -18,7 +18,7 @@ Disclaimer: being a Starfox fangame of sorts, this project is currently using a 
 <br><br>
 
 <ul class="actions">
-<li><a href="http://github.com/pgutenko/railshooter/releases" class="button special disabled">Download</a></li>
+<li><a href="http://github.com/pgutenko/railshooter/releases" class="button special">Download</a></li>
 <li><a href="http://github.com/pgutenko/railshooter" class="button">View on Github</a></li>
 </ul>
 
